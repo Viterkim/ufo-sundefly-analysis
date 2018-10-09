@@ -1,0 +1,3 @@
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:55:	JUnit tests should include assert() or fail()
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:71:	JUnit tests should include assert() or fail()
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:77:	JUnit tests should include assert() or fail()

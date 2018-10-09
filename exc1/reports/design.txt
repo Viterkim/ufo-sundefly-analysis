@@ -1,0 +1,61 @@
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:38:	The class 'Airline' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=5, WMC=8)
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:55:	Document empty constructor
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:95:	Avoid if (x != y) ..; else ..;
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:106:	Avoid unnecessary if..then..else statements when returning booleans
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:35:	The class 'Airport' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=13, WMC=15)
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:63:	Document empty constructor
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:140:	Avoid if (x != y) ..; else ..;
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:151:	Avoid unnecessary if..then..else statements when returning booleans
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:37:	The class 'Flight' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=9, WMC=11)
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:56:	Document empty constructor
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:107:	Avoid if (x != y) ..; else ..;
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:118:	Avoid unnecessary if..then..else statements when returning booleans
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:32:	The class 'FlightInstance' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=22, WMC=24)
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:70:	Document empty constructor
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:136:	Avoid if (x != y) ..; else ..;
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:147:	Avoid unnecessary if..then..else statements when returning booleans
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:35:	The class 'Passenger' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=11)
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:53:	Document empty constructor
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:100:	Avoid if (x != y) ..; else ..;
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:111:	Avoid unnecessary if..then..else statements when returning booleans
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:36:	The class 'Reservation' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=13, WMC=15)
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:62:	Document empty constructor
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:27:	Document empty constructor
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:27:	Document empty constructor
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:40:	Consider simply returning the value vs storing it in local variable 'fi'
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:81:	Consider simply returning the value vs storing it in local variable 'fi'
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:95:	Consider simply returning the value vs storing it in local variable 'fi'
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:111:	Consider simply returning the value vs storing it in local variable 'fi'
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:123:	Consider simply returning the value vs storing it in local variable 'a'
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:130:	Consider simply returning the value vs storing it in local variable 'a'
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\Admin.java:18:	When instantiating a SimpleDateFormat object, specify a Locale
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:39:	Private field 'obm' could be made final; it is only initialized in the declaration or constructor.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:41:	Private field 'objSer' could be made final; it is only initialized in the declaration or constructor.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:43:	Private field 'flightsService' could be made final; it is only initialized in the declaration or constructor.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:35:	Private field 'objSer' could be made final; it is only initialized in the declaration or constructor.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:256:	When instantiating a SimpleDateFormat object, specify a Locale
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:279:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:286:	Consider using varargs for methods or constructors which take an array the last parameter.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:85:	New exception is thrown in catch block, original stack trace may be lost
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:130:	New exception is thrown in catch block, original stack trace may be lost
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:49:	An instanceof check is being performed on the caught exception.  Create a separate catch clause for this exception type.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:12:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:34:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:37:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:38:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:39:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:42:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:43:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:44:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:45:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:46:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:47:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:55:	Consider using varargs for methods or constructors which take an array the last parameter.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\TrustAllX509TrustManager.java:20:	Document empty method body
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\TrustAllX509TrustManager.java:24:	Document empty method body
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserFacadeFactory.java:10:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserFacadeFactory.java:17:	Singleton is not thread safe
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:11:	Private field 'username' could be made final; it is only initialized in the declaration or constructor.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:13:	Private field 'roles' could be made final; it is only initialized in the declaration or constructor.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:25:	Private field 'reentrantLock' could be made final; it is only initialized in the declaration or constructor.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\utils\makeTestUsers.java:11:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.

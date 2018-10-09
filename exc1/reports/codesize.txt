@@ -1,0 +1,13 @@
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:34:	The class 'JWTAuthenticationFilter' has a Modified Cyclomatic Complexity of 5 (Highest = 10).
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:34:	The class 'JWTAuthenticationFilter' has a Standard Cyclomatic Complexity of 5 (Highest = 10).
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:42:	The method 'filter' has a Modified Cyclomatic Complexity of 10.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:42:	The method 'filter' has a Standard Cyclomatic Complexity of 10.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:42:	The method 'filter(ContainerRequestContext)' has a cyclomatic complexity of 10.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:84:	The method 'verifyPassword(char, String)' has a cyclomatic complexity of 17.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:84:	The method 'verifyPassword(char, String)' has an NPath complexity of 256
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:54:	The class 'OtherAirlineFetch' has a Modified Cyclomatic Complexity of 8 (Highest = 13).
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:54:	The class 'OtherAirlineFetch' has a Standard Cyclomatic Complexity of 8 (Highest = 13).
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:62:	The method 'run' has a Modified Cyclomatic Complexity of 13.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:62:	The method 'run' has a Standard Cyclomatic Complexity of 13.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:62:	The method 'run()' has a cyclomatic complexity of 15.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:62:	The method 'run()' has an NPath complexity of 480

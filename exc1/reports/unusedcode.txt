@@ -1,0 +1,4 @@
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:26:	Avoid unused private methods such as 'getAirportFromCity(String)'.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:38:	Avoid unused private fields such as 'context'.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:34:	Avoid unused private fields such as 'context'.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:67:	Avoid unused local variables such as 'rolesAsString'.

@@ -1,0 +1,397 @@
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\cors\CorsRequestFilter.java:16:	Parameter 'requestCtx' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\cors\CorsResponseFilter.java:16:	Parameter 'requestCtx' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\cors\CorsResponseFilter.java:16:	Parameter 'res' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:58:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:62:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:62:	Parameter 'name' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:71:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:79:	Parameter 'name' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:88:	Parameter 'flightList' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:100:	Parameter 'object' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:105:	Local variable 'other' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:66:	Parameter 'iATACode' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:74:	Parameter 'iATACode' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:82:	Parameter 'timeZone' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:90:	Parameter 'name' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:98:	Parameter 'country' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:106:	Parameter 'city' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:115:	Parameter 'flightInstanceList' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:124:	Parameter 'flightInstanceList1' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:133:	Parameter 'flightList' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:145:	Parameter 'object' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:150:	Local variable 'other' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:59:	Parameter 'flightNumber' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:67:	Parameter 'flightNumber' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:75:	Parameter 'seats' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:84:	Parameter 'flightInstanceList' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:92:	Parameter 'fkAirlineId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:100:	Parameter 'fkcurrentAirport' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:112:	Parameter 'object' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:117:	Local variable 'other' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:73:	Parameter 'flightInstanceId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:81:	Parameter 'flightInstanceId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:89:	Parameter 'travelTime' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:97:	Parameter 'availableSeats' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:105:	Parameter 'price' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:113:	Parameter 'fkstartingAirport' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:121:	Parameter 'fkdestinationAirport' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:129:	Parameter 'fkflightNumber' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:141:	Parameter 'object' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:146:	Local variable 'other' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:162:	Parameter 'departureDate' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:170:	Parameter 'departureTime' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:178:	Parameter 'arrivalTime' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:186:	Parameter 'arrivalDate' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:56:	Parameter 'passengerId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:60:	Parameter 'firstName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:60:	Parameter 'lastName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:69:	Parameter 'passengerId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:77:	Parameter 'firstName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:85:	Parameter 'lastName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:93:	Parameter 'fkreservationId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:105:	Parameter 'object' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:110:	Local variable 'other' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:65:	Parameter 'reservationId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:73:	Parameter 'reservationId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:81:	Parameter 'totalPrice' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:89:	Parameter 'reservEmail' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:97:	Parameter 'reservPhone' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:105:	Parameter 'reservName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:113:	Parameter 'fkflightInstanceId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:122:	Parameter 'passengerList' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:23:	Parameter 'roleName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:34:	Parameter 'user' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:45:	Parameter 'roleName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:30:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:30:	Parameter 'userName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:36:	Parameter 'role' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:53:	Local variable 'rolesAsStrings' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:54:	Local variable 'role' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:66:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:26:	Parameter 'airportCity' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:27:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:29:	Local variable 'ai' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:36:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:37:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:39:	Local variable 'fi' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:43:	Parameter 'fi' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:49:	Parameter 'fi' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:55:	Parameter 'date' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:55:	Parameter 'from' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:55:	Parameter 'tickets' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:57:	Local variable 'q2' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:66:	Parameter 'date' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:66:	Parameter 'from' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:66:	Parameter 'tickets' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:66:	Parameter 'to' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:68:	Local variable 'q2' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:79:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:80:	Local variable 'fi' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:85:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:86:	Local variable 'f' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:91:	Parameter 'airportName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:92:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:94:	Local variable 'fi' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:98:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:99:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:104:	Parameter 'pageCount' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:104:	Parameter 'pageNumber' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:105:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:110:	Local variable 'fi' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:114:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:115:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:120:	Parameter 'limit' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:121:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:122:	Local variable 'a' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:126:	Parameter 'limit' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:126:	Parameter 'search' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:127:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:129:	Local variable 'a' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:133:	Parameter 'IATA' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:134:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:139:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:141:	Local variable 'fi' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:142:	Local variable 're' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:144:	Local variable 'r' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:158:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:159:	Local variable 'q' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:22:	Parameter 'r' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:28:	Parameter 'p' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:34:	Parameter 'r' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:40:	Parameter 'p' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:15:	Parameter 'emf' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:24:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:25:	Local variable 'em' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:37:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:37:	Parameter 'userName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:38:	Local variable 'user' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\GenericExceptionMapper.java:23:	Parameter 'ex' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\GenericExceptionMapper.java:24:	Local variable 'error' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\GenericExceptionMapper.java:25:	Local variable 'errorDetail' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\GenericExceptionMapper.java:26:	Local variable 'statusCode' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\NotFoundExceptionMapper.java:23:	Parameter 'ex' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\NotFoundExceptionMapper.java:24:	Local variable 'error' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\NotFoundExceptionMapper.java:25:	Local variable 'errorDetail' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\NotFoundExceptionMapper.java:26:	Local variable 'statusCode' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\Admin.java:18:	Local variable 'now' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ApplicationConfig.java:12:	Local variable 'resources' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ApplicationConfig.java:23:	Parameter 'resources' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:54:	Parameter 'pageCount' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:54:	Parameter 'pageNumber' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:55:	Local variable 'allFlightsList' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:56:	Local variable 'json' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:69:	Local variable 'fiList' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:80:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:81:	Local variable 'arr' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:82:	Local variable 'resList' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:83:	Local variable 'elm' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:93:	Parameter 'id' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:94:	Local variable 'result' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:96:	Local variable 'resultString' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:109:	Local variable 'fiList' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:110:	Local variable 'arr' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:123:	Parameter 'content' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:125:	Local variable 'obj' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:147:	Parameter 'limit' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:147:	Parameter 'search' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:154:	Local variable 'obj' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:165:	Parameter 'date' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:165:	Parameter 'from' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:165:	Parameter 'tickets' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:165:	Parameter 'userAgent' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:170:	Local variable 'tempList' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:171:	Local variable 'flightInstance' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:175:	Local variable 'ourFLights' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:176:	Local variable 'jsonArray' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:205:	Parameter 'date' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:205:	Parameter 'from' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:205:	Parameter 'tickets' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:205:	Parameter 'to' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:205:	Parameter 'userAgent' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:211:	Local variable 'tempList' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:212:	Local variable 'flightInstance' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:216:	Local variable 'ourFLights' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:217:	Local variable 'jsonArray' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:247:	Parameter 'date' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:247:	Parameter 'from' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:247:	Parameter 'jsonArray' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:247:	Parameter 'tickets' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:247:	Parameter 'to' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:254:	Parameter 'date' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:254:	Parameter 'from' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:254:	Parameter 'jsonArray' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:254:	Parameter 'tickets' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:278:	Parameter 'ssls' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:278:	Parameter 'string' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:48:	Parameter 'content' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:48:	Parameter 'paramFlightId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:50:	Local variable 'parser' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:51:	Local variable 'jo' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:54:	Local variable 'flightId' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:56:	Local variable 'res' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:57:	Local variable 'fi' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:59:	Local variable 'numSeats' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:68:	Local variable 'totalPrice' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:80:	Local variable 'jsonPass' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:81:	Local variable 'javaPass' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:84:	Local variable 'temp' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:85:	Avoid instantiating new objects inside loops
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:85:	Local variable 'tempPas' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:86:	Local variable 'firstName' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:88:	Local variable 'lastName' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:95:	Avoid instantiating new objects inside loops
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:51:	Parameter 'fi' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:51:	Parameter 'reList' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:52:	Local variable 'obj' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:53:	Local variable 'obj2' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:54:	Local variable 'arr' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:71:	Local variable 'r' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:72:	Avoid instantiating new objects inside loops
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:72:	Local variable 'passArr' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:73:	Avoid instantiating new objects inside loops
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:73:	Local variable 'obj3' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:81:	Local variable 'pass' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:82:	Avoid instantiating new objects inside loops
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:82:	Local variable 'obj4' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:98:	Parameter 'fi' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:98:	Parameter 'numberOfSeats' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:98:	Parameter 'pas' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:98:	Parameter 'res' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:99:	Local variable 'obj' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:100:	Local variable 'passArr' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:101:	Local variable 'flight' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:104:	Local variable 'start' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:106:	Local variable 'dest' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:113:	Local variable 'p' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:114:	Avoid instantiating new objects inside loops
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:114:	Local variable 'jsP' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:124:	Parameter 't' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:124:	Parameter 'tickets' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:125:	Local variable 'obj' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:126:	Local variable 'flightsArr' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:129:	Local variable 'fi' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:138:	Parameter 'fi' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:139:	Local variable 'j' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:151:	Parameter 'fi' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:151:	Parameter 'tickets' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:152:	Local variable 'j' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:167:	Parameter 'flightInstanceList' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:168:	Local variable 'json' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:169:	Local variable 'jsonArray' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:170:	Local variable 'flightInstance' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:174:	Avoid instantiating new objects inside loops
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:174:	Local variable 'jsonObject' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:184:	Local variable 'totalEarnings' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:192:	Parameter 'flights' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:193:	Local variable 'jsonArray' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:195:	Local variable 'f' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:196:	Avoid instantiating new objects inside loops
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:196:	Local variable 'jsonObject' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:203:	Parameter 'airports' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:204:	Local variable 'jsonObject' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:205:	Local variable 'a' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:211:	Parameter 'facade' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:211:	Parameter 'obj' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:212:	Local variable 'instance' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:225:	Local variable 'planeID' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:226:	Local variable 'startAirportCode' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:227:	Local variable 'destAirportCode' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:228:	Local variable 'travelDate' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:229:	Local variable 'arriveDate' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:230:	Local variable 'startTime' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:231:	Local variable 'endTime' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:232:	Local variable 'seatPrice' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:235:	Local variable 'f' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:236:	Local variable 'startAirport' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:237:	Local variable 'destAirport' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:238:	Local variable 'formattedDate' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:239:	Local variable 'formattedDate2' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:251:	Local variable 'startDateTime' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:252:	Local variable 'endDateTime' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:254:	Local variable 'dateFormat' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:256:	Local variable 'df' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:258:	Local variable 'startDate' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:260:	Local variable 'endDate' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:262:	Local variable 'milli' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:263:	Local variable 'minutes' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:265:	Do not add empty strings
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:270:	Parameter 'date' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:271:	Local variable 'arr' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:275:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:277:	Local variable 'year' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:278:	Local variable 'monthName' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:279:	Do not add empty strings
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:281:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:286:	Parameter 'str' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:288:	Local variable 's' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:289:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:42:	Parameter 'request' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:45:	Local variable 'authorizationHeader' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:49:	Local variable 'token' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:55:	Local variable 'username' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:64:	Parameter 'role' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:90:	Parameter 'userId' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:91:	Local variable 'facade' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:92:	Local variable 'user' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:101:	Local variable 'securityClass' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:107:	Local variable 'securityClass' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:116:	Parameter 'token' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:118:	Local variable 'signedJWT' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:119:	Local variable 'verifier' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:128:	Local variable 'message' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:135:	Parameter 'token' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:137:	Local variable 'signedJWT' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:138:	Local variable 'verifier' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:34:	Parameter 'jsonString' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:36:	Local variable 'json' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:37:	Local variable 'username' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:38:	Local variable 'password' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:39:	Local variable 'responseJson' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:43:	Local variable 'token' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:56:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:56:	Parameter 'userName' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:57:	Local variable 'facade' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:61:	Parameter 'roles' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:61:	Parameter 'subject' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:62:	Local variable 'res' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:63:	Local variable 'string' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:67:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:67:	Local variable 'rolesAsString' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:68:	Local variable 'issuer' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:80:	Local variable 'random' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:84:	Local variable 'signer' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:85:	Local variable 'date' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:87:	Local variable 'claimsSet' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:95:	Local variable 'signedJWT' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\NotAuthorizedExceptionMapper.java:23:	Parameter 'ex' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\NotAuthorizedExceptionMapper.java:25:	Local variable 'error' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\NotAuthorizedExceptionMapper.java:26:	Local variable 'errorDetail' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:16:	Parameter 'message' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:19:	Parameter 'message' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:19:	Parameter 'source' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:26:	Parameter 'message' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:29:	Parameter 'message' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:29:	Parameter 'source' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:49:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:55:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:59:	Local variable 'random' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:60:	Local variable 'salt' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:64:	Local variable 'hash' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:65:	Local variable 'hashSize' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:68:	Local variable 'parts' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:78:	Parameter 'correctHash' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:78:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:84:	Parameter 'correctHash' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:84:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:88:	Local variable 'params' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:158:	Local variable 'testHash' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:164:	Parameter 'a' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:164:	Parameter 'b' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:172:	Parameter 'bytes' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:172:	Parameter 'iterations' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:172:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:172:	Parameter 'salt' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:176:	Local variable 'spec' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:177:	Local variable 'skf' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:192:	Parameter 'hex' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:198:	Parameter 'array' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\RolesAllowedFilter.java:26:	Parameter 'requestContext' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\RolesAllowedFilter.java:27:	Local variable 'resourceMethod' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\RolesAllowedFilter.java:58:	Parameter 'ra' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\RolesAllowedFilter.java:58:	Parameter 'requestContext' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\RolesAllowedFilter.java:61:	Local variable 'roles' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\RolesAllowedFilter.java:62:	Local variable 'role' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\TrustAllX509TrustManager.java:19:	Parameter 'certs' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\TrustAllX509TrustManager.java:20:	Parameter 'authType' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\TrustAllX509TrustManager.java:23:	Parameter 'certs' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\TrustAllX509TrustManager.java:24:	Parameter 'authType' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:16:	Parameter 'roles' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:16:	Parameter 'username' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:27:	Parameter 'role' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:24:	Avoid using redundant field initializer for 'fetchOtherAirlinesPool'
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:28:	Local variable 'threadFactory' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:32:	Parameter 'date' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:32:	Parameter 'from' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:32:	Parameter 'jsonArray' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:32:	Parameter 'tickets' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:32:	Parameter 'to' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:32:	Parameter 'url' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:33:	Local variable 'otherAirlineFetch' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:50:	Local variable 'threadFactory' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:98:	Local variable 'stringBuilder' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:117:	Local variable 'json' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:124:	Local variable 'jsonObject' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\utils\makeTestUsers.java:15:	Parameter 'args' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\utils\makeTestUsers.java:16:	Local variable 'em' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\utils\makeTestUsers.java:21:	Local variable 'adminRole' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\utils\makeTestUsers.java:22:	Local variable 'admin' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:38:	Parameter 'password' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:38:	Parameter 'username' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:39:	Local variable 'json' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:30:	Parameter 'appContext' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:30:	Parameter 'port' is not assigned and could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:34:	Local variable 'webAppLocation' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:44:	Local variable 'context' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:49:	Local variable 'server' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:51:	Local variable 's' could be declared final
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:61:	Local variable 'resources' could be declared final

@@ -1,0 +1,243 @@
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\cors\CorsRequestFilter.java:13:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\cors\CorsRequestFilter.java:14:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\cors\CorsResponseFilter.java:13:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\cors\CorsResponseFilter.java:14:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:45:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:50:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:53:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:55:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:58:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airline.java:62:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:43:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:46:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:49:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:52:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:55:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:57:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:59:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:61:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:63:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Airport.java:66:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:44:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:46:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:48:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:51:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:54:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:56:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Flight.java:59:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:36:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:39:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:42:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:45:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:52:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:55:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:57:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:59:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:62:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:65:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:68:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:70:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\FlightInstance.java:73:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:42:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:45:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:48:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:51:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:53:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:56:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Passenger.java:60:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:36:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:43:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:44:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:46:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:49:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:52:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:55:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:58:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:60:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:62:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Reservation.java:65:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:12:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:15:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:21:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:23:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:27:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\Role.java:34:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:14:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:18:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:22:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:25:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:25:	To avoid mistakes add a comment at the beginning of the roles field if you want a default access modifier
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:27:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:30:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:36:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\entity\User.java:66:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:13:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:15:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:16:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:18:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:36:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:43:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:49:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:55:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:66:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:78:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:84:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:91:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:98:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:104:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:114:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:120:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:126:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:133:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:139:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\FlightsFacade.java:158:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:11:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:12:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:13:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:15:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:22:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:28:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:34:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\ReservationFacade.java:40:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:11:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:13:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:13:	To avoid mistakes add a comment at the beginning of the emf field if you want a default access modifier
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\facades\UserFacade.java:15:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\GenericExceptionMapper.java:15:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\GenericExceptionMapper.java:17:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\GenericExceptionMapper.java:20:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\GenericExceptionMapper.java:20:	To avoid mistakes add a comment at the beginning of the context field if you want a default access modifier
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\NotFoundExceptionMapper.java:15:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\NotFoundExceptionMapper.java:17:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\NotFoundExceptionMapper.java:20:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\httpErrors\NotFoundExceptionMapper.java:20:	To avoid mistakes add a comment at the beginning of the context field if you want a default access modifier
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\Admin.java:13:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\Admin.java:17:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ApplicationConfig.java:8:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:35:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:38:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:39:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:40:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:41:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:42:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:43:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:45:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:54:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:68:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:80:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:93:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:108:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:123:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:147:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:165:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:205:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:262:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:278:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:31:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:34:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:35:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:36:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:37:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:39:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\ReservationResource.java:48:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\User.java:11:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\User.java:15:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:34:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:38:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:51:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:98:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:124:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:138:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:151:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:167:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:192:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:203:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:211:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:215:	Comment is too large: Too many lines
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:270:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\IUser.java:5:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\IUser.java:6:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\IUser.java:7:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\IUser.java:8:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\IUserFacade.java:20:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\IUserFacade.java:22:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:34:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:36:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\JWTAuthenticationFilter.java:39:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:23:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:27:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:34:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:73:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:75:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\NotAuthorizedExceptionMapper.java:15:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\NotAuthorizedExceptionMapper.java:17:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\NotAuthorizedExceptionMapper.java:20:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\NotAuthorizedExceptionMapper.java:20:	To avoid mistakes add a comment at the beginning of the context field if you want a default access modifier
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:11:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:15:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:16:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:19:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:25:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:26:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:29:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:34:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:37:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:38:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:39:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:42:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:43:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:44:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:45:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:46:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:47:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:49:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:55:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:78:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\PasswordStorage.java:84:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\RolesAllowedFilter.java:20:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\RolesAllowedFilter.java:23:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Secret.java:4:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Secret.java:5:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\TrustAllX509TrustManager.java:15:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\TrustAllX509TrustManager.java:19:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\TrustAllX509TrustManager.java:23:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserFacadeFactory.java:13:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserFacadeFactory.java:14:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserFacadeFactory.java:16:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:10:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:11:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:13:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:16:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\UserPrincipal.java:27:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:23:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:24:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:25:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:32:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:44:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:48:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:54:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:56:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:57:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:58:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\service\FlightsService.java:59:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\utils\makeTestUsers.java:11:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\utils\makeTestUsers.java:15:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:19:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:21:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:22:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:23:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:25:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:26:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:29:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:55:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:71:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:77:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\FlightsResourceIntegrationTest.java:85:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:19:	Header comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:21:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:24:	Field comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:30:	Public method and constructor comments are required
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:33:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:54:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:64:	Comment is too large: Line too long
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\test\java\test\utils\EmbeddedTomcat.java:67:	Public method and constructor comments are required

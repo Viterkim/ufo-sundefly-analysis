@@ -1,0 +1,7 @@
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:52:	The String literal "Admin" appears 6 times in this file; the first occurrence is on line 52
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\FlightsResource.java:149:	Use equals() to compare strings instead of '==' or '!='
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:65:	The String literal "flightNumber" appears 5 times in this file; the first occurrence is on line 65
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:105:	The String literal "origin" appears 4 times in this file; the first occurrence is on line 105
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:107:	The String literal "destination" appears 4 times in this file; the first occurrence is on line 107
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\rest\serialize\ObjSerialize.java:108:	The String literal "date" appears 4 times in this file; the first occurrence is on line 108
+C:\Users\vikto\Desktop\ufo-sundefly-analysis\src\main\java\security\Login.java:65:	Avoid appending characters as strings in StringBuffer.append.
